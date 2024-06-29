@@ -30,13 +30,13 @@
 <br>
 
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Mi portafolio👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=100% src=""  /></a>
+        <img align="center" width=100% src="Captura de pantalla 2024-06-28 183729.png"  /></a>
       </p>
     <p align="center">
 <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
