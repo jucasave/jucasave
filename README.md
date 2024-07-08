@@ -10,8 +10,6 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
 💻 Soy estudiante de programacion en un Degeti 😀👍
 
 📝 roles en el ámbito: programador y Desarrollador web
